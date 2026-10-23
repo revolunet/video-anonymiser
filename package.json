@@ -15,7 +15,7 @@
     "@vitejs/plugin-react": "^6.0.3",
     "tailwindcss": "^4.3.2",
     "typescript": "~6.0.2",
-    "vite": "^8.1.1"
+    "vite": "^8.3.5"
   },
   "dependencies": {
     "@ffmpeg/ffmpeg": "^0.12.15",
